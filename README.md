@@ -29,7 +29,7 @@ The dataset required for this project is open-sourced and hosted on **Zenodo**. 
 
 Your project directory should look like this:
 ```text
-your_project_root/
+PhyG-Net/
   ├── data/           <-- Place your extracted train/test data here
   │   ├── train.xxx
   │   └── test.xxx
