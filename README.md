@@ -21,8 +21,6 @@ The project follows a modular design for maintainability and scalability:
 
 The dataset required for this project is open-sourced and hosted on **Zenodo**. Before running the code, please download and set up the dataset.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18933365.svg)](https://doi.org/10.5281/zenodo.18933365)
-
 **Setup Steps:**
 
 1. Access the dataset via the Zenodo link and download the archive: [https://doi.org/10.5281/zenodo.18933365](https://doi.org/10.5281/zenodo.18933365)
