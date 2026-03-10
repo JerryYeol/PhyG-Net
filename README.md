@@ -44,6 +44,7 @@ It is recommended to use Python 3.8+. Install the required dependencies using pi
 
 ```bash
 pip install torch torchvision numpy scikit-learn tqdm
+pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
