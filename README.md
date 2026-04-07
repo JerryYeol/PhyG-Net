@@ -23,7 +23,7 @@ The dataset required for this project is open-sourced and hosted on **Zenodo**. 
 
 **Setup Steps:**
 
-1. Access the dataset via the Zenodo link and download the archive: [https://doi.org/10.5281/zenodo.18933365](https://doi.org/10.5281/zenodo.18933365)
+1. Access the dataset via the Zenodo link and download the archive: [https://doi.org/10.5281/zenodo.19453692](https://doi.org/10.5281/zenodo.19453692)
 2. Create a folder named `data` in the root directory of your project.
 3. **Extract the downloaded dataset** directly into this `data` folder.
 
